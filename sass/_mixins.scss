@@ -6,7 +6,7 @@
   width:30%;
 }
 
-@mixin .col4(){
+@mixin col-4(){
   width:50%;
 }
 
@@ -19,5 +19,5 @@
 }
 
 .col-4{
-    @include .col4;
+    @include col-4;
 }
